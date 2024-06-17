@@ -1,0 +1,6 @@
+candidate_id,resume_text,job_id,job_description_text,hired
+1,Experienced software engineer with expertise in Python and deep learning.,101,Looking for a software engineer with experience in Python and machine learning.,1
+2,Junior developer with Java and C++ experience.,102,Seeking a junior developer familiar with Java and C++.,0
+3,Data scientist with strong Python skills and machine learning experience.,101,Looking for a software engineer with experience in Python and machine learning.,1
+4,Senior developer with a focus on web development and JavaScript.,103,Seeking a senior developer with web development skills and JavaScript expertise.,1
+5,Backend developer with experience in Ruby on Rails and database management.,104,Hiring a backend developer with experience in Ruby on Rails and database management.,0
